@@ -6,7 +6,7 @@
 
 2. [SQL](06-db-02-sql)
 
-3. [~~MySQL~~](06-db-03-mysql)
+3. [MySQL](06-db-03-mysql)
 
 4. [~~PostgreSQL~~](06-db-04-postgresql)
 
@@ -18,3 +18,8 @@
 ## Дополнительные материалы
 
 1. [Администрирование баз данных](additional)
+
+
+Hуllо  
+
+hello
