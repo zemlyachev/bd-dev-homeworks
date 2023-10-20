@@ -44,7 +44,7 @@
 
 **Приведите в ответе** количество(!) записей с `price` > 300.
 
-> ```sql
+> ```sh
 > mysql> \u test_db
 > Reading table information for completion of table and column names
 > You can turn off this feature to get a quicker startup with -A
