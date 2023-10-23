@@ -114,7 +114,7 @@ test_database_backup.sql  test_dump.sql
 
 Как бы вы доработали бэкап-файл, чтобы добавить уникальность значения столбца `title` для таблиц `test_database`?
 
-> В [скрипте](/test_data/test_database_backup.sql) добавил бы `UNIQUE` для поля `title` при создании таблиц
+> В [скрипте](test_data/test_database_backup.sql) добавил бы `UNIQUE` для поля `title` при создании таблиц
 ```sql
 title character varying(80) NOT NULL UNIQUE
 ```
