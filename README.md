@@ -8,7 +8,7 @@
 
 3. [MySQL](06-db-03-mysql)
 
-4. [~~PostgreSQL~~](06-db-04-postgresql)
+4. [PostgreSQL](06-db-04-postgresql)
 
 5. [~~Elasticsearch~~](06-db-05-elasticsearch)
 
